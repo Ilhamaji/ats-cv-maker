@@ -1,0 +1,23 @@
+{
+  "name": "cvmaker",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@lucide/vue": "^1.17.0",
+    "nuxt": "^4.4.7",
+    "puppeteer": "^25.1.0",
+    "vue": "^3.5.35",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "@nuxt/fonts": "^0.14.0",
+    "sass": "^1.100.0"
+  }
+}

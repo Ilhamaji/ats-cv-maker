@@ -1,0 +1,5 @@
+{
+  "geminicodeassist.enableTelemetry": false,
+  "geminicodeassist.inlineSuggestions.enableAuto": false,
+  "geminicodeassist.localCodebaseAwareness": false
+}
